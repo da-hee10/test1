@@ -27,8 +27,6 @@
 <!-- 검색기능 넣기 이이이이이이이 선일작업 -->
 <script type="text/javascript">
 
-
-
    var inputSource =[]; 
 
    $(function(){
